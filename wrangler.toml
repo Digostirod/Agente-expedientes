@@ -1,0 +1,5 @@
+name: Agente de Processos Administrativos
+routes:
+  - pattern: /*
+    static_dir: /home/ubuntu/agente_processos/web_interface/agente-web/out
+    fallback_page: /index.html
