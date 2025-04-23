@@ -1,0 +1,5 @@
+name = "Agente-de-Processos-Administrativos"
+compatibility_date = "2023-12-01"
+
+[site]
+bucket = "./out"
